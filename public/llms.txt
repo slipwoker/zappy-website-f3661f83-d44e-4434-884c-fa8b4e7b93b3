@@ -1,0 +1,85 @@
+# מיכאל הנדימן — Generative Engine Optimization Map
+
+> Michael Handyman is a friendly, professional home and office maintenance service run by Michael, emphasizing quality, a smile, and fair pricing. The brand has a warm and trustworthy personality with a personal touch — 'I'm here to take care of it for you.' It features a referral promotion (friend brings a friend = 20% discount for both), a tips section to establish expertise, and a photo gallery of real work. The overall vibe is approachable, reliable, and community-oriented.
+
+---
+
+## Pages
+
+### בית
+https://-f3661f83.zappy5.app
+תיקונים בבית מעולם לא היו קלים יותר! מיכאל הנדימן מציע שירותי תחזוקה ותיקון לבית ולמשרד באיכות גבוהה, מחיר הוגן וחיוך. קבל הצעת מחיר עוד היום!
+
+### שירותים
+https://-f3661f83.zappy5.app/services
+מאינסטלציה קטנה ועד שיפוץ מלא — גלה את מגוון שירותי התחזוקה והתיקון לבית שמיכאל הנדימן מציע. עבודה אמינה, מחיר שקוף, ותוצאות שמדברות בעד עצמן. בדוק עכשיו!
+
+### טיפים וייעוץ
+https://-f3661f83.zappy5.app/tips
+רוצה לדעת איך לתחזק את הבית כמו מקצוען? מיכאל הנדימן חולק טיפים מעשיים וייעוץ מקצועי לתחזוקה ותיקון הבית שיחסכו לך זמן, כסף וכאבי ראש. כנס וגלה!
+
+### צור קשר
+https://-f3661f83.zappy5.app/contact
+יש לך תקלה בבית? אל תחכה! צור קשר עם מיכאל הנדימן עכשיו וקבל מענה מהיר, אישי ומקצועי. חבר שמביא חבר? שניכם מקבלים 20% הנחה על שירותי תחזוקה ותיקון הבית!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f3661f83.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f3661f83.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f3661f83.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f3661f83.zappy5.app/contact
+- Endpoint: https://-f3661f83.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מיכאל הנדימן
+Michael Handyman is a friendly, professional home and office maintenance service run by Michael, emphasizing quality, a smile, and fair pricing. The brand has a warm and trustworthy personality with a personal touch — 'I'm here to take care of it for you.' It features a referral promotion (friend brings a friend = 20% discount for both), a tips section to establish expertise, and a photo gallery of real work. The overall vibe is approachable, reliable, and community-oriented.
+
+## Services/Products
+- TV and shelf installations
+- furniture assembly (IKEA)
+- light plumbing
+- basic electrical work
+
+## Target Audience
+- homeowners and office owners needing repairs and maintenance
+- בעלי בתים הזקוקים לתחזוקה
+- בעלי משרדים הזקוקים לתיקונים
+- בעלי בתים חדשים עם צרכי שיפוץ
+
+## Industry
+home maintenance and repair
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f3661f83.zappy5.app/sitemap.xml
+- Robots: https://-f3661f83.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f3661f83.zappy5.app/llms-full.txt
